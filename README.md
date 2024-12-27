@@ -67,7 +67,6 @@
 
 
 ### 🔝 Top Contributed Repo
-![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=Trivancee&show_icons=true&theme=github-light&count_private=true)
 
 
 
