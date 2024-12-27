@@ -66,10 +66,8 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Trivancee&theme=darkhub&margin-w=15&margin-h=15)
 
 
-### 🔝 Top Contributed Repositories
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Trivancee&layout=compact&theme=dark)
-
-![](https://komarev.com/ghpvc/?username=Trivancee&color=blue)
+### 🔝 Top Contributed Repo
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=Trivancee&show_icons=true&theme=github-light&count_private=true)
 
 
 
