@@ -12,7 +12,7 @@
 - 🪔 I'm looking to collaborate on open-source projects, hackathons, and innovative ideas.
 - 📝 How to reach me: ogechigrace67@gmail.com
 
-##  🙂 In my free time, I take pictures, share troubleshooting tips on Youtube, listen to podcast, and explore new technologies.
+##  🙂 In my free time, I take pictures, share troubleshooting fixes on Youtube, listen to podcasts, and explore new technologies.
 
 
 
