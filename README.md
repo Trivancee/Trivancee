@@ -12,14 +12,14 @@
 - 🪔 I'm looking to collaborate on open-source projects, hackathons, and innovative ideas.
 - 📝 How to reach me: ogechigrace67@gmail.com
 
-##  🙂 In my free time, I take pictures, share troubleshooting fixes on Youtube, listen to podcasts, and explore new technologies.
+##  🙂 In my free time, I take pictures, share troubleshooting fixes on YouTube, listen to podcasts, and explore new technologies.
 
 
 
 ##  Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogechiegbodo/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/EgbodoOgechi)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/NanceeGracie)
 
 
 ## 💻 *Tech Stack*
