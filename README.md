@@ -14,7 +14,7 @@
   
 - 📝 How to reach me: ogechigrace67@gmail.com
 
-##  🙂 In my free time, I take pictures and share knowledge on troubleshooting and resolving issues related to Programming, AWS, Azure, and Google Cloud Platform (GCP) on YouTube, listen to podcasts, and explore new technologies.
+##  🎤 In my free time, I take pictures, share knowledge on troubleshooting and resolving issues related to Programming, AWS, Azure, and Google Cloud Platform (GCP) on YouTube, listen to podcasts, and explore new technologies.
 
 
 
