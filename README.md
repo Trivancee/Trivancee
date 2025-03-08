@@ -5,14 +5,11 @@
 
 <!-- About Me Section -->
 ## 👋 **Hi, I'm Ogechi, a Cloud Security & DevOps Engineer**
-- 🌱 With growing expertise in cloud computing, automation, and infrastructure management.
-  
-- 🛠️ With proficiency in Azure, Google Cloud Platform (GCP), and AWS, I specialize in designing and implementing secure cloud solutions.  
-- ⏫ I'm currently learning Cloud Security, Kubernetes, and Terraform.  
-- 🪔 I'm looking to collaborate on open-source projects, hackathons, and innovative ideas.
+- 🌱 With hands-on experience in securing cloud infrastructures, automating CI/CD pipelines, and optimizing system performance.
+- 🛠️ I am Proficient in Azure, GCP, AWS, and network security, with a proven ability to reduce vulnerabilities by 40% and improve system uptime by 30%. I am skilled in deploying scalable, compliant cloud solutions and leveraging automation tools to enhance operational efficiency. I am passionate about learning and looking to collaborate on open-source projects, hackathons, and innovative ideas.  
 - 📝 How to reach me: ogechigrace67@gmail.com
 
-##  🙂 In my free time, I take pictures, share troubleshooting fixes on YouTube, listen to podcasts, and explore new technologies.
+##  🙂 In my free time, I take pictures and share knowledge on troubleshooting and resolving issues related to Programming, AWS, Azure, and Google Cloud Platform (GCP) on YouTube, listen to podcasts, and explore new technologies.
 
 
 
