@@ -9,8 +9,8 @@
   
 - 🛠️ I am Proficient in Azure, GCP, AWS, and network security, with a proven ability to reduce vulnerabilities by 40% and improve system uptime by 30%. I am skilled in deploying scalable, compliant cloud solutions and leveraging automation tools to enhance operational efficiency. I am passionate about learning and looking to collaborate on open-source projects, hackathons, and innovative ideas.
   
-- **Tools and Software**: Terraform, Kubernetes, Git, Network Security (Azure NSG), GitTea, Docker, Jenkins, DataDog, Microsoft Excel, Jira, and Notion.
-- **Scripting and Automation Languages**: Python, Bash, PowerShell
+- 🎯 **Tools and Software**: Terraform, Kubernetes, Git, Network Security (Azure NSG), GitTea, Docker, Jenkins, DataDog, Microsoft Excel, Jira, and Notion.
+- 🎖 **Scripting and Automation Languages**: Python, Bash, PowerShell
   
 - 📝 How to reach me: ogechigrace67@gmail.com
 
