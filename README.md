@@ -12,7 +12,7 @@
 - 🎯 **Tools and Software**: Terraform, Kubernetes, Git, Network Security (Azure NSG), GitTea, Docker, Jenkins, DataDog, Microsoft Excel, Jira, and Notion.
 - 🎖 **Scripting and Automation Languages**: Python, Bash, PowerShell
   
-- 📝 How to reach me: ogechigrace67@gmail.com
+- 📝 How to reach me: gracetheogeeh@gmail.com
 
 ##  🎤 In my free time, I take pictures, share knowledge on troubleshooting and resolving issues related to Programming, AWS, Azure, and Google Cloud Platform (GCP) on YouTube, listen to podcasts, and explore new technologies.
 
